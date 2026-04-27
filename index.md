@@ -16,15 +16,17 @@ For this project, we looked at how to improve the COMP 110 class. We decided tha
 
 
 ### Graph 1
-<img src="static/imgs/interestingvsnot.png" alt = "Image of Histogram." width="700"/>
+<img src="static/imgs/interestingvsnot.png" alt = "Image of Bar Graph." width="700"/>
 
+### Graph 2
+<img src="static/imgs/histogram.png" alt = "Image of Histogram." width="800"/>
 
 ### Graph 3
-<img src="static/imgs/interestingvsnot2.png" alt = "Image of Bar Plot of Interest vs. Prior Experience." width="800"/>
+<img src="static/imgs/majorminorcompare2.png" alt = "Image of Bar Plot of Interest vs. Prior Experience." width="800"/>
 
 
 ### Graph 4
-<img src="static/imgs/interestingvsnot.png" alt = "Image of Line Graph of Interest vs. Prior Experience." width="800"/>
+<img src="static/imgs/majorminorcompare.png" alt = "Image of Line Graph of Interest vs. Prior Experience." width="800"/>
 
 
 ## Conclusion
